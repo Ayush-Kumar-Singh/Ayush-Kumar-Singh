@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayush-Kumar-Singh
+- 👋 Hi, I’m Ayush Kumar Singh
 - 👀 I’m interested in creating web apps
 - 🌱 I’m currently working on my projects
 - 📫 Reach me on twitter @whyucan_com
